@@ -3,8 +3,4 @@ A simple material design App to add and delete users (in style).
 
 Have a look here : https://shalabhtayal.github.io/react_user/
 
-![screenshot](http://www.tiverton.ri.gov/img/content/trees/home_tree.png "Screenshot")
-
-http://www.tiverton.ri.gov/img/content/trees/home_tree.png
-
-![screenshot](https://github.com/shalabhtayal/react_user/blob/main/screenshot.png "Screenshot")
+![screenshot](https://i.ibb.co/dmXqCMB/screenshot.png "Screenshot")
